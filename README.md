@@ -41,10 +41,13 @@
 
 ### EĞİTİM
 - **Ondokuz Mayıs Üniversitesi** - Bilgisayar Programcılığı - Lisans - 2021 - 2023
-- **Hayriye Ethem Turhallı Mesleki Teknik Anadolu Lisesi** - Bilgisayar Programcılığı - 2014 - 2019
+- **Hayriye Ethem Turhallı Mesleki Teknik Anadolu Lisesi** - Bilişim Teknolojileri - 2014 - 2019
 
 ### YETENEKLER
 - Python
+ - Pdf dosyasını excel dosyasına çevirme.
+ - Sezar şifreleme
+ - Aynı lan üzerindeki iki bilgisayar arası haberleşme.
 - HTML - CSS
 - C#
   Araç Takip Otomasyonu 
