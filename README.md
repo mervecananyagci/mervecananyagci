@@ -45,9 +45,9 @@
 
 ### YETENEKLER
 - Python
- - Pdf dosyasını excel dosyasına çevirme.
- - Sezar şifreleme
- - Aynı lan üzerindeki iki bilgisayar arası haberleşme.
+  - Pdf dosyasını excel dosyasına çevirme.
+  - Sezar şifreleme
+  - Aynı lan üzerindeki iki bilgisayar arası haberleşme.
 - HTML - CSS
 - C#
   Araç Takip Otomasyonu 
