@@ -66,6 +66,8 @@
   - SQL Server Management Studio Express kullanımı,
     
 - Microsoft Office Programları (İleri Seviye)
+ - Excel
+  - Pdf'ten excele donüştürdüğümüz dosyalardaki verileri başka bir excel dosyasında kullanıcının istediği satır sutuna aktarmak.
 - PHP
  - HTML ve CSS kullanarak alışveriş sitesi yapımı ve sitenin verisini PhpMyAdmin’e bağlantı kurmak
 
